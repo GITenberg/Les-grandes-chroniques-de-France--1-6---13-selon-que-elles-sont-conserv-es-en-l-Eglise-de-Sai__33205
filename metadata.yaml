@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31791'
     url: http://www.gutenberg.org/2009/agents/31791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33205#Les-grandes-chroniques-de-France--1-6---13-selon-que-elles-sont-conserv-es-en-l-Eglise-de-Sai_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2010-07-19'
 gutenberg_type: Text
